@@ -1,1 +1,1 @@
-This is my website with my personal website. Hope it is upto the mark.
+This is my personal website. Hope it is upto the mark.
